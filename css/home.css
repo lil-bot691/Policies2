@@ -1,0 +1,12 @@
+html
+{
+    background-color: beige;
+    text-align: left;
+    padding: 15px;
+    font-family: Georgia, serif;
+}
+
+h1{
+    text-align: center;
+    text-decoration-line: underline;
+}
